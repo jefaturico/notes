@@ -1,2 +1,0 @@
-- [Coastal Zone Management - Rostock University](ur_coastal_zone_management)
--
