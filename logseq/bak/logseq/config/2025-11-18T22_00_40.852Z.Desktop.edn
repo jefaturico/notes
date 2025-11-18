@@ -38,7 +38,7 @@
 
  ;; Enable tooltip preview on hover.
  ;; Default value: true
- :ui/enable-tooltip? true
+ :ui/enable-tooltip? false
 
  ;; Display brackets [[]] around page references.
  ;; Default value: true
@@ -424,4 +424,8 @@
  :journal? true}
  :graph/forcesettings {:link-dist 180
  :charge-strength -1000
- :charge-range 2300}}
+ :charge-range 2300}
+ :feature/enable-journals? true
+ :feature/enable-whiteboards? true
+ :default-home {}
+ :ui/show-brackets? false}
