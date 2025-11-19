@@ -314,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- :block-hidden-properties #{:title}
+ ;; :block-hidden-properties #{:title}
 
  ;; Create a page for all properties.
  ;; Default value: true
