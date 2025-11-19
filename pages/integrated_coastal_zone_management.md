@@ -1,5 +1,5 @@
-- ## Integrated Coastal Zone Management
-	- **Integrated Coastal Zone Management:** Dynamic, continuous, and iterative process designed to promote sustainable management of coastal zones.
+## Integrated Coastal Zone Management
+	- **iIntegrated Coastal Zone Management:** Dynamic, continuous, and iterative process designed to promote sustainable management of coastal zones.
 	- Focus on the **land side of the coastal zone:**
 	  * Coastal plain.
 	  * Nearshore marine environment.
@@ -36,7 +36,5 @@
 	  * Focus on regional approaches.
 	  * **No unified legal framework, ICZM enforced indirectly.**
 		- Long-term perspective.
-
 		- Adaptive management.
-
 		- Local specificity.
