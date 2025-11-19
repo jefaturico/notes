@@ -420,9 +420,10 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
- :graph/settings {:builtin-pages? false
+ :graph/settings {:builtin-pages? true
  :journal? true
- :orphan-pages? false}
+ :orphan-pages? true
+ :excluded-pages? true}
  :graph/forcesettings {:link-dist 180
  :charge-strength -1000
  :charge-range 2300}
