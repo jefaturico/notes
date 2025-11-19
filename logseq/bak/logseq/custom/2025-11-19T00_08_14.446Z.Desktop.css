@@ -1,6 +1,0 @@
-/* Hide title only in the main page view */
-.ls-page .page-title,
-.ls-page .ls-page-title,
-.ls-page .page-title-input {
-  display: none !important;
-}
