@@ -314,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- ;; :block-hidden-properties #{:public :icon}
+ :block-hidden-properties #{:title}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -430,4 +430,3 @@
  :default-home {}
  :ui/show-brackets? false
  :feature/enable-timetracking? false}
-:block-hidden-properties {:title}
