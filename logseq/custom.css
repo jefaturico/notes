@@ -1,1 +1,4 @@
-
+/* Hide the filename title at the top of pages */
+.page-title {
+  display: none !important;
+}
