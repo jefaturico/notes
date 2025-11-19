@@ -1,3 +1,5 @@
-.page-title {
+/* Hide page title ONLY in the main editor header */
+.ls-page .page-header .page-title,
+.ls-page .page-header .page-title-input {
   display: none !important;
 }

@@ -314,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- ;; :block-hidden-properties #{:public :icon}
+ ;; :block-hidden-properties #{:title}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -420,7 +420,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
- :graph/settings {:builtin-pages? false
+ :graph/settings {:builtin-pages? true
  :journal? true}
  :graph/forcesettings {:link-dist 180
  :charge-strength -1000
@@ -430,4 +430,3 @@
  :default-home {}
  :ui/show-brackets? false
  :feature/enable-timetracking? false}
-:block-hidden-properties #{:title}
