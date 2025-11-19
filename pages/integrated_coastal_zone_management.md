@@ -35,3 +35,8 @@
 	  * Coherence between sectoral policies and between planning and management
 	  * Focus on regional approaches.
 	  * **No unified legal framework, ICZM enforced indirectly.**
+		- Long-term perspective.
+		  
+		  Adaptive management.
+		  
+		  Local specificity.
