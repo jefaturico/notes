@@ -430,3 +430,4 @@
  :default-home {}
  :ui/show-brackets? false
  :feature/enable-timetracking? false}
+:block-hidden-properties #{:title}
