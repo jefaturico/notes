@@ -12,7 +12,7 @@
 	  * All within the limits set by natural dynamics and carrying capacity.
 	- **The word *integrated*** refers to integration of:
 	  * Multiple objectives.
-	  * Multiple instruments and policies needed to meet those objectives.
+	  * Multiple instruments and polcies needed to meet those objectives.
 	  * All relevant policy areas, sectors and levels of administration.
 	  * Multiple disciplines.
 	  * Both terrestrial and marine components.
