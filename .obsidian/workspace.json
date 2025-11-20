@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025_11_19.md",
-                "mode": "source",
+                "file": "pages/elements_of_statistics.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025_11_19"
+              "title": "elements_of_statistics"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/integrated_coastal_zone_management.md",
+                "file": "pages/statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for integrated_coastal_zone_management"
+              "title": "Backlinks for statistics"
             }
           },
           {
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/integrated_coastal_zone_management.md",
+                "file": "pages/statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from integrated_coastal_zone_management"
+              "title": "Outgoing links from statistics"
             }
           }
         ]
@@ -126,21 +126,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "69caef23f9b2407e",
+  "active": "61d25868829dbd56",
   "lastOpenFiles": [
-    "journals/2025_11_18.md",
-    "journals/2025_11_19.md",
+    "pages/elements_of_statistics.md",
     "pages/integrated_coastal_zone_management.md",
-    "img",
-    "journals/2025_11_18.mdGfg8pS.bck",
-    "journals/2025_11_18.md3Q2Xdw.bck",
-    "journals/2025_11_18.mdhZDkyQ.bck",
-    "journals/2025_11_18.mdJHTd23.bck",
-    "journals/2025_11_18.mdZjh6Li.bck",
-    "journals/2025_11_18.mdnUlhCh.bck",
-    "journals/2025_11_18.mdTE0h4Q.bck",
-    "journals/2025_11_19.mdronnKo.bck",
-    "journals/2025_11_19.mdQMxBUU.bck",
+    "pages/statistics.md",
+    "journals/2025_11_19.md",
+    "journals/2025_11_18.md",
+    "pages/statistics.mds0R9Qe.bck",
+    "journals/2025_11_19.mdinZdua.bck",
+    "journals/2025_11_19.mddn45tc.bck",
+    "journals/2025_11_19.md2aTew4.bck",
+    "journals/2025_11_19.mdd6eilQ.bck",
+    "journals/2025_11_19.mdrqc0ya.bck",
+    "journals/2025_11_19.md1mem5B.bck",
+    "journals/2025_11_19.md4G3Atv.bck",
+    "journals/2025_11_19.mdefb78c.bck",
+    "journals/2025_11_19.mdPg8uTb.bck",
     "2025_11_19.md",
     "2025-11-19.md",
     "demo2.md",

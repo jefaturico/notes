@@ -3,5 +3,6 @@
   "accentColor": "#3da97a",
   "showViewHeader": true,
   "cssTheme": "Everforest",
-  "interfaceFontFamily": "Terminus"
+  "interfaceFontFamily": "Terminus",
+  "showRibbon": false
 }
