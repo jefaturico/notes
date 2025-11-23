@@ -4,5 +4,6 @@
   "showViewHeader": true,
   "cssTheme": "Everforest",
   "interfaceFontFamily": "Terminus",
-  "showRibbon": false
+  "showRibbon": false,
+  "enabledCssSnippets": []
 }

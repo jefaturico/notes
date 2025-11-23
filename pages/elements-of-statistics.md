@@ -1,6 +1,6 @@
 # Elements of Statistics
 
-The **core elements of statistics** are the most basic, fundamental components that make up the field of [statistics](statistics).
+The **core elements of statistics** are the most basic, fundamental components that make up the field of [statistics](statistics.md).
 
 ## Population
 A **population** is any **set of values** from which you are interested in obtaining information. Usually a population implies a very large or otherwise inaccessible set of values.

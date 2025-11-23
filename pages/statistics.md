@@ -1,6 +1,6 @@
 # Statistics
 
-**Statistics** is the study of the intrinsic properties of large sets. It attempts to analyze a [population](elements_of_statistics#population) using information obtained from sampling.
+**Statistics** is the study of the intrinsic properties of large sets. It attempts to analyze a [population](elements-of-statistics.md#population) using information obtained from sampling.
 
 ## Branches of Statistics
 

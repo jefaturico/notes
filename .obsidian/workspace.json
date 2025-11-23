@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "91a5e8394c291de7",
+        "id": "9cd7f71c6ec84560",
         "type": "tabs",
         "children": [
           {
-            "id": "69caef23f9b2407e",
+            "id": "aee551fec0d4fa4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/elements_of_statistics.md",
+                "file": "journals/2025-11-22.md",
                 "mode": "preview",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "elements_of_statistics"
+              "title": "2025-11-22"
             }
           }
         ]
@@ -126,23 +136,32 @@
       "random-note:Open random note": false
     }
   },
-  "active": "61d25868829dbd56",
+  "active": "aee551fec0d4fa4b",
   "lastOpenFiles": [
+    "pages/enso-cycle.md",
+    "pages/el-nino-southern-oscillation.md",
+    "pages/enso-cycle.mdPbgQtQ.bck",
+    "journals/2025-11-22.mdBnD3LS.bck",
+    "pages/enso-cycle.mdhxvOBT.bck",
+    "pages/enso-cycle.mdnjZmAZ.bck",
+    "pages/enso-cycle.mdtk4M7b.bck",
+    "pages/enso-cycle.mdsJKAqD.bck",
+    "pages/enso-cycle.mdE2KRSJ.bck",
+    "pages/enso-cycle.mdr7DP3Y.bck",
+    "pages/enso-cycle.mdqjnfsk.bck",
+    "pages/enso-cycle.mdjliesD.bck",
+    "sources/talley-et-al_2011.md",
+    "pages/elements-of-statistics.md",
+    "pages/integrated-coastal-zone-management.md",
+    "pages/statistics.md",
+    "img/Pasted image 20251122172834.png",
+    "img/Pasted image 20251122172358.png",
+    "journals/2025-11-22.md",
+    "journals/2025-11-18.md",
     "pages/elements_of_statistics.md",
     "pages/integrated_coastal_zone_management.md",
-    "pages/statistics.md",
     "journals/2025_11_19.md",
     "journals/2025_11_18.md",
-    "pages/statistics.mds0R9Qe.bck",
-    "journals/2025_11_19.mdinZdua.bck",
-    "journals/2025_11_19.mddn45tc.bck",
-    "journals/2025_11_19.md2aTew4.bck",
-    "journals/2025_11_19.mdd6eilQ.bck",
-    "journals/2025_11_19.mdrqc0ya.bck",
-    "journals/2025_11_19.md1mem5B.bck",
-    "journals/2025_11_19.md4G3Atv.bck",
-    "journals/2025_11_19.mdefb78c.bck",
-    "journals/2025_11_19.mdPg8uTb.bck",
     "2025_11_19.md",
     "2025-11-19.md",
     "demo2.md",
