@@ -9,9 +9,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
   "attachmentFolderPath": "img",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "trashOption": "none",
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
-  "accentColor": "#3da97a",
+  "accentColor": "",
   "showViewHeader": true,
-  "cssTheme": "Everforest",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Terminus",
   "showRibbon": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": false
 }

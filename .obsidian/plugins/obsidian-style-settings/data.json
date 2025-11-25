@@ -1,0 +1,14 @@
+{
+  "shimmering-focus@@normal-tab-bar": false,
+  "shimmering-focus@@alt-colorschemes": "colorscheme-gamma",
+  "shimmering-focus@@angular-shapes": false,
+  "shimmering-focus@@hide-properties-in-statusbar": true,
+  "shimmering-focus@@hide-backlinks-status-bar": true,
+  "shimmering-focus@@hide-pane-relief-focus-lock-status-bar": true,
+  "shimmering-focus@@hide-languagetool-status-bar": true,
+  "shimmering-focus@@hide-signature-icon": true,
+  "shimmering-focus@@hide-harper-status-bar": true,
+  "shimmering-focus@@hide-pandoc-reference-list-status-bar": true,
+  "minimal-advanced@@animations": "disable-animations",
+  "minimal-advanced@@cursor": "default"
+}

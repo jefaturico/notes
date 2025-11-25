@@ -2,7 +2,7 @@
 
 **El Niño/La Niña** is a natural climate variation that is dynamically centered in the tropical Pacific. Its "interannual" timescale is **3--7 years** for quasi-periodic alternation between the El Niño and La Niña states.
 
-**The Southern Oscillation** is an interannual seesaw in tropical sea level pressure between the western and eastern Pacific, corresponding to a weakening and strengthening of the [easterly trade winds](easterly-trade-winds) over the tropical pacific. It is closely related to the El Niño/La Niña state.
+**The Southern Oscillation** is an interannual seesaw in tropical sea level pressure between the western and eastern Pacific, corresponding to a weakening and strengthening of the [easterly trade winds](/pages/easterly-trade-winds.md) over the tropical pacific. It is closely related to the El Niño/La Niña state.
 
 Because the Southern Oscillation is so closely related to El Niño events, the full climate phenomenon is often referred to as **El Niño-Southern Oscillation (ENSO).**
 
@@ -10,9 +10,9 @@ Because the Southern Oscillation is so closely related to El Niño events, the f
 
 ### "Normal" Conditions
 
-The **"normal" oceanic and atmospheric conditions** in the tropical Pacific are as follows: 
+The **"normal" oceanic and atmospheric conditions** in the tropical Pacific are as follows:
 
-The easterly trade winds pile up warm equatorial water in the western tropical Pacific and at the same time cause upwelling along the equator. This causes a cold tongue in sea surface temperature (SST) in the eastern tropics, and causes the thermocline to be inclined upward from west to east. The warm-to-cold SST difference along the equator maintains the [Walker circulation](walker-circulation) in the atmosphere, thus sustaining this component of the trade winds.
+The easterly trade winds pile up warm equatorial water in the western tropical Pacific and at the same time cause upwelling along the equator. This causes a cold tongue in sea surface temperature (SST) in the eastern tropics, and causes the thermocline to be inclined upward from west to east. The warm-to-cold SST difference along the equator maintains the [Walker circulation](/pageswalker-circulation.md) in the atmosphere, thus sustaining this component of the trade winds.
 
 ### La Niña Conditions
 
@@ -24,10 +24,10 @@ During an **El Niño** event, the trade winds are weaker, because the Walker cir
 
 ## ENSO Mechanisms
 
-The ocean and atmosphere are fully coupled in this climate "cycle". The coupling is referred to as the [Bjerknes feedback](bjerknes-feedback).
+The ocean and atmosphere are fully coupled in this climate "cycle". The coupling is referred to as the [Bjerknes feedback](/pages/bjerknes-feedback.md).
 
-The alternation between El Niño and La Niña states is not regular since there are many different oceanic and atmospheric phenomena linked in the full system plus random, short-term forcing. The ENSO cycle is summarized [here](enso-cycle.md).
+The alternation between El Niño and La Niña states is not regular since there are many different oceanic and atmospheric phenomena linked in the full system plus random, short-term forcing. The ENSO cycle is summarized [here](pages/enso_mechanisms.md).
 
 ---
 
-Source: [(Talley et al., 2011)](talley-et-al_2011)
+Source: [(Talley et al., 2011)](sources/talley2011.md)

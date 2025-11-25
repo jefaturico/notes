@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd7f71c6ec84560",
+        "id": "365b23e7703d9f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "aee551fec0d4fa4b",
+            "id": "727f822354c962de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2025-11-22.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-22"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -50,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trade wind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,28 +60,29 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fd81db8a1aef0fdb",
     "type": "split",
     "children": [
       {
-        "id": "a758fb61c8c5bc1c",
+        "id": "2347fd52532be516",
         "type": "tabs",
         "children": [
           {
             "id": "206aeaece8c38b98",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/statistics.md",
+                "file": "pages/el-nino-southern-oscillation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,22 +91,25 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
+              "pinned": true,
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics"
+              "title": "Backlinks for el-nino-southern-oscillation"
             }
           },
           {
             "id": "6040a84391e30cd7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/statistics.md",
+                "file": "pages/el-nino-southern-oscillation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
+              "pinned": true,
               "icon": "links-going-out",
-              "title": "Outgoing links from statistics"
+              "title": "Outgoing links from el-nino-southern-oscillation"
             }
           }
         ]
@@ -136,27 +126,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "aee551fec0d4fa4b",
+  "active": "727f822354c962de",
   "lastOpenFiles": [
-    "pages/enso-cycle.md",
-    "pages/el-nino-southern-oscillation.md",
-    "pages/enso-cycle.mdPbgQtQ.bck",
-    "journals/2025-11-22.mdBnD3LS.bck",
-    "pages/enso-cycle.mdhxvOBT.bck",
-    "pages/enso-cycle.mdnjZmAZ.bck",
-    "pages/enso-cycle.mdtk4M7b.bck",
-    "pages/enso-cycle.mdsJKAqD.bck",
-    "pages/enso-cycle.mdE2KRSJ.bck",
-    "pages/enso-cycle.mdr7DP3Y.bck",
-    "pages/enso-cycle.mdqjnfsk.bck",
-    "pages/enso-cycle.mdjliesD.bck",
-    "sources/talley-et-al_2011.md",
     "pages/elements-of-statistics.md",
-    "pages/integrated-coastal-zone-management.md",
+    "pages/enso_mechanisms.md",
+    "pages/enso_mechanisms.mdAqCgEC.bck",
+    "pages/enso_mechanisms.mdY9oy9d.bck",
+    "pages/enso_mechanisms.mdKtoUPC.bck",
+    "pages/enso_mechanisms.mduZ4CO7.bck",
+    "pages/enso_mechanisms.md365b4J.bck",
+    "pages/enso_mechanisms.mddJBTDZ.bck",
+    "pages/climate-change-effect-on-enso.md",
+    "pages/enso_mechanisms.mdYHM9Eg.bck",
+    "pages/enso_mechanisms.mdUL1Y0w.bck",
+    "pages/enso-types.md",
+    "pages/climate-change-effect-on-enso.mdK0zy1j.bck",
+    "pages/climate-change-effect-on-enso.mdVe6WcR.bck",
+    "journals/2025-11-23.md",
+    "sources/talley2011.md",
+    "sources/wang2012.md",
+    "pages/el-nino-southern-oscillation.md",
+    "pages/pacific-decadal-variability.md",
+    "pages/bjerknes-feedback.md",
+    "pages/easterly-trade-winds.md",
     "pages/statistics.md",
+    "pages/Untitled.md",
+    "journals/2025-11-22.md",
+    "pages/integrated-coastal-zone-management.md",
     "img/Pasted image 20251122172834.png",
     "img/Pasted image 20251122172358.png",
-    "journals/2025-11-22.md",
     "journals/2025-11-18.md",
     "pages/elements_of_statistics.md",
     "pages/integrated_coastal_zone_management.md",
