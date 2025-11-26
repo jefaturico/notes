@@ -1,0 +1,3 @@
+# kao2009_ep-enso-mechanics
+
+For the EP type of ENSO, large and out-of-phase temperature anomalies in the subsurface ocean appear on both sides of the Pacific basin. Temperature anomalies in the eastern tropical Pacific emerge from the American coasts and then propagate westward on the surface. At the same time, negative subsurface anomalies accumulated in the western Pacific. After the mature phase of the event, these subsurface temperature anomalies propagate eastward along the thermocline and eventually emerge on the surface of the eastern Pacific and reverse the phase of ENSO [@Kao2009].

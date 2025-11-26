@@ -1,0 +1,3 @@
+# kao2009_enso-impacts-may-depend-on-type
+
+The impacts of CP-ENSO events on precipitation are much less in Indonesia and are negligible in the Amazon. The different precipitation patterns of these two types of ENSO imply that the associated convective heating locations and the midlatitude teleconnections could be different as well. The impacts of ENSO on the United States, for example, may depend on what type of ENSO event is happening [@Kao2009].

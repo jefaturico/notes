@@ -1,0 +1,3 @@
+# talley2011_enso-definition
+
+El Niño/La Niña is a natural climate variation that is dynamically centered in the tropical Pacific.  The Southern Oscillation is an interannual seesaw in tropical sea level pressure between the western and eastern Pacific, corresponding to a weakening and strengthening of the easterly trade winds over the tropical pacific. It is closely related to the El Niño/La Niña state. Because of this, the full climate phenomenon is often referred to as El Niño-Southern Oscillation (ENSO) [@Talley2010].

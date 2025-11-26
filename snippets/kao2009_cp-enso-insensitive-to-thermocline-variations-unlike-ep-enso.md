@@ -1,0 +1,3 @@
+# kao2009_cp-enso-insensitive-to-thermocline-variations-unlike-ep-enso
+
+There may be two types of ENSO: 1) an eastern-Pacific (EP) type that is located in the central tropical Pacific and whose generation mechanism involves thermocline variations along the equatorial Pacific and 2) a central-Pacific (CP) type that is located in the central tropical Pacific and whose generation is not sensitive to the thermocline variations [@Kao2009].

@@ -1,0 +1,3 @@
+# kao2009_enso-types-have-different-onsets
+
+Xu and Chan (2001) categorized El Niño events according to their onset time and concluded that there are two types of El Niño events: one onsets in spring and the other in summer. Although not emphasized by the authors, it is noticed from their results that the composite SST anomalies concentrate in the eastern equatorial Pacific for the spring-onset type El Niño but in the central Pacific for the summer-onset type El Niño [@Kao2009].

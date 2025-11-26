@@ -1,0 +1,3 @@
+# talley2011_enso-from-normal-conditions-to-el-nino
+
+Moving from normal conditions toward a full- blown El Niño, the steps are (1) changes of the trade winds to westerly winds in the western Pacific, often associated with the atmosphere’s 30---60 day Madden-Julian oscillation; (2) an oceanic Kelvin wave shooting eastward along the equator in response; (3) resultant warm SST anomalies in the eastern and central equatorial Pacific; and (4) disruption of the Walker circulation through SST feedback on the atmosphere [@Talley2011].

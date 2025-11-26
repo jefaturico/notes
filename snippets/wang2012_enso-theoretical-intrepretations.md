@@ -1,0 +1,3 @@
+# wang2012_enso-theoretical-intrepretations
+
+The El Niño-Southern Oscillation is generally explained as either: (a) One phase of a self-sustained, unstable, and naturally oscillatory mode of the coupled ocean-atmosphere system. (b) A stable (or damped) mode triggered by or interacted with stochastic forcing or noise such as westerly wind bursts and Madden-Julian Oscillation events and the tropical instability waves in the eastern Pacific Ocean [@Wang2012].

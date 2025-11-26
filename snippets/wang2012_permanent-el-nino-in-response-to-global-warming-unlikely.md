@@ -1,0 +1,3 @@
+# wang2012_permanent-el-nino-in-response-to-global-warming-unlikely
+
+Climate models project a weak reduction of the sea surface temperature (SST) gradient into the 21st century. However, due to basic equatorial dynamics the adjustment of the thermocline to changes in the trade winds renders the Bjerknes feedback ineffective to amplify an initial El Niño-like warming. For these reasons, a "permanent El Niño" in response to global warming is very unlikely, even if the Walker circulation weakens. Instead, climate models indicate that the equatorial Pacific may just warm up slightly more than the tropics due to the effect of the weakening of the Walker circulation on equatorial currents and a differential in evaporative damping with the off-equatorial tropics [@Wang2012].

@@ -1,7 +1,20 @@
-@book{talley2011,
-	title = {Descriptive Physical Oceanography: An Introduction},
-	author = {Lynne D. Talley and George L. Pickard and William J. Emery and James H. Swift},
-	year = {2011},
-	edition = {6},
-	publisher {Academic Press},
-}
+# Descriptive Physical Oceanography: An Introduction
+@Talley2011
+
+## El Niño Southern Oscillation (ENSO)
+
+[[talley2011_enso-definition|Formal definition of El Niño/La Niña, the Southern Oscillation, and ENSO]]
+
+[[talley2011_enso-interannual-timescale|Interannual timescale for ENSO]]
+
+[[talley2011_enso-normal-conditions|"Normal" conditions for the tropical pacific]]
+
+[[talley2011_enso-la-nina-conditions|La Niña conditions over the tropical pacific]]
+
+[[talley2011_enso-el-nino-conditions|El Niño conditions over the tropical pacific]]
+
+[[talley2011_enso-irregularity-due-to-many-processes|The alternation between El Niño and La Niña states is not regular due to many different processes]]
+
+[[talley2011_enso-from-normal-conditions-to-el-nino|Mechanics of the shift from normal conditions to El Niño]]
+
+[[talley2011_enso-from-normal-conditions-to-la-nina]]

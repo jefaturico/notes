@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "365b23e7703d9f2a",
+        "id": "51b5e6c063204e33",
         "type": "tabs",
         "children": [
           {
-            "id": "727f822354c962de",
+            "id": "ceed76c44578d971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2025-11-25.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-25"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -92,11 +78,9 @@
           {
             "id": "206aeaece8c38b98",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/el-nino-southern-oscillation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,80 +89,119 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-coming-in",
-              "title": "Backlinks for el-nino-southern-oscillation"
+              "title": "Backlinks"
             }
           },
           {
             "id": "6040a84391e30cd7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/el-nino-southern-oscillation.md",
+                "file": "sources/kao2009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-going-out",
-              "title": "Outgoing links from el-nino-southern-oscillation"
+              "title": "Outgoing links from kao2009"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbaa4720d607b395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d80ebe9a4c3d3c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8094256269338618,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "727f822354c962de",
+  "active": "61d25868829dbd56",
   "lastOpenFiles": [
-    "journals/2025_11_25.mdUCroVu.bck",
-    "journals/2025_11_25.md90Ocbu.bck",
-    "journals/2025_11_25.mdyiCfSv.bck",
-    "journals/2025_11_25.mdF6in1m.bck",
-    "journals/2025_11_25.mdWbfXN1.bck",
-    "journals/2025-11-24.md",
-    "pages/elements-of-statistics.md",
-    "pages/enso_mechanisms.md",
-    "pages/enso_mechanisms.mdAqCgEC.bck",
-    "pages/enso_mechanisms.mdY9oy9d.bck",
-    "pages/enso_mechanisms.mdKtoUPC.bck",
-    "pages/enso_mechanisms.mduZ4CO7.bck",
-    "pages/enso_mechanisms.md365b4J.bck",
-    "pages/enso_mechanisms.mddJBTDZ.bck",
-    "pages/climate-change-effect-on-enso.md",
-    "pages/enso-types.md",
-    "journals/2025-11-23.md",
+    "projects/future-reading",
+    "projects",
     "sources/talley2011.md",
+    "snippets/talley2011_enso-la-nina-conditions.md",
+    "sources/chen2024.md",
+    "snippets/talley2011_enso-definition.md",
+    "snippets/wang2012_conceptual-enso-oscillator-models.md",
     "sources/wang2012.md",
+    "snippets/kao2009_sst-anomaly-pattern-differentiates-enso-types.md",
+    "sources/kao2009.md",
+    "snippets/kao2009_cp-enso-insensitive-to-thermocline-variations-unlike-ep-enso.md",
     "pages/el-nino-southern-oscillation.md",
-    "pages/pacific-decadal-variability.md",
-    "pages/bjerknes-feedback.md",
-    "pages/easterly-trade-winds.md",
-    "pages/statistics.md",
-    "pages/Untitled.md",
-    "journals/2025-11-22.md",
-    "pages/integrated-coastal-zone-management.md",
+    "snippets/kao2009_thermocline-variation-not-involved-in-evolution-of-cp-enso.md",
+    "snippets/wang2012_cp-enso-more-common-in-recent-decades.md",
+    "pages/el-nino-southern-oscillation.mdPPRHft.bck",
+    "sources/chen2024.mdpS2jZZ.bck",
+    "snippets/wang2012_paleoclimatic-evidence-that-a-permanent-el-nino-is-unlikely.md",
+    "sources/chen2024.mdkEGG73.bck",
+    "sources/chen2024.mdXBSRIw.bck",
+    "sources/chen2024.mdZiO5fZ.bck",
+    "sources/chen2024.mdPdK5sC.bck",
+    "sources/chen2024.mdhDKvzk.bck",
+    "snippets/wang2012_tropical-pacific-projected-climate-changes.md",
+    "snippets/wang2012_uncertainty-around-enso-under-global-warming.md",
+    "snippets/talley2011_enso-normal-conditions.md",
+    "snippets/kao2009_enso-types-have-different-onsets.md",
+    "snippets/kao2009_enso-sst-evolutions-controlled-by-different-processes.md",
+    "snippets/kao2009_cp-enso-strongly-associated-with-sst-anomalies-in-subtropics.md",
+    "snippets/kao2009_cp-enso-is-a-local-air-sea-coupling-phenomenon.md",
+    "snippets/kao2009_strong-decadal-and-interdecadal-change-for-ep-enso.md",
+    "snippets/kao2009_enso-types-deserve-different-considerations.md",
+    "snippets/kao2009_cp-enso-shorter-than-ep-enso.md",
+    "snippets/wang2012_climate-models-yet-to-render-enso-inactive-in-different-climates.md",
+    "snippets/wang2012_permanent-el-nino-in-response-to-global-warming-unlikely.md",
+    "sources/wang2012.mdh9kUiy.bck",
+    "sources/wang2012.mdlakmXJ.bck",
     "img/Pasted image 20251122172834.png",
-    "img/Pasted image 20251122172358.png",
-    "journals/2025-11-18.md",
-    "pages/elements_of_statistics.md",
-    "pages/integrated_coastal_zone_management.md",
-    "journals/2025_11_19.md",
-    "journals/2025_11_18.md",
-    "2025_11_19.md",
-    "2025-11-19.md",
-    "demo2.md",
-    "demo.md"
+    "img/Pasted image 20251122172358.png"
   ]
 }

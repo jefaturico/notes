@@ -74,12 +74,6 @@
         "Mod"
       ],
       "key": "M"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -141,6 +135,14 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "vim-toggle:toggle-vim": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ]
 }

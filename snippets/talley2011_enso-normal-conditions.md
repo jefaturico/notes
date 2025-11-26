@@ -1,0 +1,3 @@
+# talley2011_enso-normal-conditions
+
+The easterly trade winds pile up warm equatorial water in the western tropical Pacific and at the same time cause upwelling along the equator. This causes a cold tongue in sea surface temperature (SST) in the eastern tropics, and causes the thermocline to be inclined upward from west to east. The warm-to-cold SST difference along the equator maintains the Walker circulation in the atmosphere, thus sustaining this component of the trade winds [@Talley2011].

@@ -1,0 +1,3 @@
+# kao2009_cp-enso-does-not-behave-like-a-cycle-or-oscillation
+
+It is important to note that there is no identifiable phase-reversal signal (...), implying that the CP type of ENSO does not behave like a cycle/oscillation. The CP-ENSO probably occurs as an event that is not driven by thermocline variations, while the EP-ENSO is driven by the delayed-oscillator type of thermocline variation and occurs as a cycle with its warm- and cold-phase events following each other [@Kao2009].

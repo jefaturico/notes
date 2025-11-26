@@ -1,0 +1,10 @@
+{
+  "pathToPandoc": "/usr/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/sources/sources.bib",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+}

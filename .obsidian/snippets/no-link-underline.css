@@ -1,0 +1,14 @@
+/* Remove default underline + enable transitions */
+.markdown-preview-view a,
+.cm-s-obsidian span.cm-link {
+  text-decoration: none !important;
+  transition: color 0.18s ease, text-shadow 0.18s ease;
+}
+
+/* Hover effect */
+.markdown-preview-view a:hover,
+.cm-s-obsidian span.cm-link:hover {
+  color: var(--text-accent) !important;
+  /* Very soft glow — uses accent color with low opacity */
+  text-shadow: 0 0 6px color-mix(in srgb, var(--text-accent) 55%, transparent);
+}

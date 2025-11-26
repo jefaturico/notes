@@ -1,10 +1,13 @@
 {
   "theme": "obsidian",
-  "accentColor": "",
-  "showViewHeader": true,
-  "cssTheme": "Minimal",
+  "accentColor": "#00ffee",
+  "showViewHeader": false,
+  "cssTheme": "",
   "interfaceFontFamily": "Terminus",
   "showRibbon": false,
-  "enabledCssSnippets": [],
-  "baseFontSizeAction": false
+  "enabledCssSnippets": [
+    "no-link-underline"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 20
 }

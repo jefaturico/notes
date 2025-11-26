@@ -1,0 +1,3 @@
+# kao2009_thermocline-variation-not-involved-in-evolution-of-cp-enso
+
+The subsurface temperature evolution of the CP-ENSO does not have a basinwide fluctiation pattern and shows little propagation feature. The initiation, development and termination of the subsurface temperature anomalies all occur in the central Pacific. The anomalies appear first near the surface and then extend downward to a shallow layer of about 100 m. This depth is well above the local thermocline, which is about 150-200 m deep, indicating that thermocline variation is not involved in the evolution of the CP type of ENSO [@Kao2009].
