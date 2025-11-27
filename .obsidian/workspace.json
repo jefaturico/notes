@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/el-nino-southern-oscillation.md",
+                "file": "sources/santoso2017.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "el-nino-southern-oscillation"
+              "title": "santoso2017"
             }
           }
         ]
@@ -184,17 +184,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "d27c12e5238f29fe",
   "lastOpenFiles": [
-    "snippets/chen2024_discussion.md",
     "pages/el-nino-southern-oscillation.md",
+    "snippets/chen2024_discussion.md",
     "snippets/chen2024_cp-enso-to-be-less-predictable-under-global-warming.md",
     "sources/chen2024.md",
     "snippets/chen2024_cp-enso-acc-significantly-reduced-in-future.md",
