@@ -11,24 +11,10 @@
             "id": "ceed76c44578d971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/chen2024.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "chen2024"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -145,7 +131,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/chen2024.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,19 +153,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8094256269338618,
+                  "scale": 0.5396170846225745,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of chen2024"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 401.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d80ebe9a4c3d3c",
+  "active": "ceed76c44578d971",
   "lastOpenFiles": [
-    "chen2024_strengthening-of-spb-leads-to-reduced-cp-enso-predictability.md",
     "sources/chen2024.md",
+    "snippets/chen2024_cp-enso-acc-significantly-reduced-in-future.md",
+    "snippets/chen2024_strengthening-of-spb-leads-to-reduced-cp-enso-predictability.md",
+    "snippets/chen2024_enso-ssta-projected-to-increase.md",
+    "snippets/chen2024_enso-spb-strength-linked-to-damping-rate.md",
+    "snippets/chen2024_enso-response-to-global-warming.md",
+    "snippets/chen2024_enso-is-dominant-interannual-climate-variability-in-pacific.md",
+    "snippets/chen2024_enso-damping-rate-to-increase-under-global-warming.md",
+    "snippets/chen2024_discussion.md",
+    "snippets/chen2024_cp-enso-to-be-less-predictable-under-global-warming.md",
+    "sources/chen2024.mdrzOdiu.bck",
+    "sources/chen2024.mdhX4rCu.bck",
+    "sources/chen2024.mdmkUq6d.bck",
+    "chen2024_cp-enso-to-be-undpredictable-under-global-warming.md",
     "sources/chen2024.mdQgjgkz.bck",
     "sources/chen2024.mdGdDhIo.bck",
     "testnote.md",
@@ -203,9 +201,6 @@
     "sources/chen2024.mdzMAmka.bck",
     "sources/chen2024.md0l2K6Y.bck",
     "sources/chen2024.md1pUo8t.bck",
-    "sources/chen2024.mdyVSKwu.bck",
-    "sources/chen2024.mdoYYjZS.bck",
-    "sources/chen2024.mdfmhS81.bck",
     "sources/talley2011.md",
     "snippets/talley2011_enso-la-nina-conditions.md",
     "snippets/talley2011_enso-definition.md",
@@ -220,15 +215,6 @@
     "snippets/wang2012_paleoclimatic-evidence-that-a-permanent-el-nino-is-unlikely.md",
     "snippets/wang2012_tropical-pacific-projected-climate-changes.md",
     "snippets/wang2012_uncertainty-around-enso-under-global-warming.md",
-    "snippets/talley2011_enso-normal-conditions.md",
-    "snippets/kao2009_enso-types-have-different-onsets.md",
-    "snippets/kao2009_enso-sst-evolutions-controlled-by-different-processes.md",
-    "snippets/kao2009_cp-enso-strongly-associated-with-sst-anomalies-in-subtropics.md",
-    "snippets/kao2009_cp-enso-is-a-local-air-sea-coupling-phenomenon.md",
-    "snippets/kao2009_strong-decadal-and-interdecadal-change-for-ep-enso.md",
-    "snippets/kao2009_enso-types-deserve-different-considerations.md",
-    "snippets/kao2009_cp-enso-shorter-than-ep-enso.md",
-    "snippets/wang2012_climate-models-yet-to-render-enso-inactive-in-different-climates.md",
     "img/Pasted image 20251122172834.png",
     "img/Pasted image 20251122172358.png"
   ]
