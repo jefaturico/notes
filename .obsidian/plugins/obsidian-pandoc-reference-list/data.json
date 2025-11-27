@@ -6,5 +6,7 @@
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
   "pathToBibliography": "/sources/sources.bib",
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "enableCiteKeyCompletion": true,
+  "hideLinks": false
 }

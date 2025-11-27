@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testnote.md",
+                "file": "sources/chen2024.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "testnote"
+              "title": "chen2024"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testnote.md",
+                "file": "sources/chen2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testnote"
+              "title": "Backlinks for chen2024"
             }
           },
           {
@@ -114,15 +114,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sources/kao2009.md",
+                "file": "sources/chen2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from kao2009"
+              "title": "Outgoing links from chen2024"
+            }
+          },
+          {
+            "id": "ac2a0afe08ca82ab",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bbaa4720d607b395",
@@ -134,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "testnote.md",
+                "file": "sources/chen2024.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,12 +168,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8094256269338618,
+                  "scale": 0.5396170846225745,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of testnote"
+              "title": "Graph of chen2024"
             }
           }
         ]
@@ -177,24 +188,26 @@
       "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
       "vim-toggle:Toggle Vim Mode": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "61d25868829dbd56",
+  "active": "ceed76c44578d971",
   "lastOpenFiles": [
+    "sources/chen2024.md",
+    "sources/chen2024.mdGdDhIo.bck",
+    "testnote.md",
+    "sources/chen2024.mdeZEYHg.bck",
+    "sources/chen2024.mdCcUFUA.bck",
+    "sources/chen2024.mdzMAmka.bck",
+    "sources/chen2024.md0l2K6Y.bck",
+    "sources/chen2024.md1pUo8t.bck",
+    "sources/chen2024.mdyVSKwu.bck",
+    "sources/chen2024.mdoYYjZS.bck",
     "sources/chen2024.mdfmhS81.bck",
     "sources/chen2024.mdkAxd1S.bck",
-    "sources/chen2024.mdEIzrAx.bck",
-    "sources/chen2024.md9evIh5.bck",
-    "sources/chen2024.mdumOxcb.bck",
-    "sources/chen2024.mdXfmQCW.bck",
-    "sources/chen2024.mdXI50QG.bck",
-    "testnote.md",
-    "projects/future-reading",
-    "projects",
     "sources/talley2011.md",
     "snippets/talley2011_enso-la-nina-conditions.md",
-    "sources/chen2024.md",
     "snippets/talley2011_enso-definition.md",
     "snippets/wang2012_conceptual-enso-oscillator-models.md",
     "sources/wang2012.md",
@@ -204,8 +217,6 @@
     "pages/el-nino-southern-oscillation.md",
     "snippets/kao2009_thermocline-variation-not-involved-in-evolution-of-cp-enso.md",
     "snippets/wang2012_cp-enso-more-common-in-recent-decades.md",
-    "pages/el-nino-southern-oscillation.mdPPRHft.bck",
-    "sources/chen2024.mdpS2jZZ.bck",
     "snippets/wang2012_paleoclimatic-evidence-that-a-permanent-el-nino-is-unlikely.md",
     "snippets/wang2012_tropical-pacific-projected-climate-changes.md",
     "snippets/wang2012_uncertainty-around-enso-under-global-warming.md",
