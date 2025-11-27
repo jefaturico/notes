@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "51b5e6c063204e33",
+        "id": "887c967ea113ce71",
         "type": "tabs",
         "children": [
           {
-            "id": "ceed76c44578d971",
+            "id": "d27c12e5238f29fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "pages/el-nino-southern-oscillation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "el-nino-southern-oscillation"
             }
           }
         ]
@@ -177,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceed76c44578d971",
+  "active": "d27c12e5238f29fe",
   "lastOpenFiles": [
     "sources/chen2024.md",
     "snippets/chen2024_cp-enso-acc-significantly-reduced-in-future.md",
