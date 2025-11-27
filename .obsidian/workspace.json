@@ -11,10 +11,24 @@
             "id": "ceed76c44578d971",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "testnote.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "testnote"
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testnote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for testnote"
             }
           },
           {
@@ -119,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "testnote.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of testnote"
             }
           }
         ]
@@ -160,11 +176,14 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
-      "vim-toggle:Toggle Vim Mode": false
+      "vim-toggle:Toggle Vim Mode": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "61d25868829dbd56",
   "lastOpenFiles": [
+    "sources/chen2024.mdXI50QG.bck",
+    "testnote.md",
     "projects/future-reading",
     "projects",
     "sources/talley2011.md",
@@ -198,9 +217,7 @@
     "snippets/kao2009_enso-types-deserve-different-considerations.md",
     "snippets/kao2009_cp-enso-shorter-than-ep-enso.md",
     "snippets/wang2012_climate-models-yet-to-render-enso-inactive-in-different-climates.md",
-    "snippets/wang2012_permanent-el-nino-in-response-to-global-warming-unlikely.md",
     "sources/wang2012.mdh9kUiy.bck",
-    "sources/wang2012.mdlakmXJ.bck",
     "img/Pasted image 20251122172834.png",
     "img/Pasted image 20251122172358.png"
   ]
