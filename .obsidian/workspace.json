@@ -168,7 +168,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5396170846225745,
+                  "scale": 0.8094256269338618,
                   "close": true
                 }
               },
@@ -187,14 +187,15 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
-      "vim-toggle:Toggle Vim Mode": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceed76c44578d971",
+  "active": "14d80ebe9a4c3d3c",
   "lastOpenFiles": [
+    "chen2024_strengthening-of-spb-leads-to-reduced-cp-enso-predictability.md",
     "sources/chen2024.md",
+    "sources/chen2024.mdQgjgkz.bck",
     "sources/chen2024.mdGdDhIo.bck",
     "testnote.md",
     "sources/chen2024.mdeZEYHg.bck",
@@ -205,7 +206,6 @@
     "sources/chen2024.mdyVSKwu.bck",
     "sources/chen2024.mdoYYjZS.bck",
     "sources/chen2024.mdfmhS81.bck",
-    "sources/chen2024.mdkAxd1S.bck",
     "sources/talley2011.md",
     "snippets/talley2011_enso-la-nina-conditions.md",
     "snippets/talley2011_enso-definition.md",
