@@ -1,0 +1,14 @@
+# --- Obsidian: ignore device-specific state ---
+# UI layout (open tabs, panes, positions)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Graph view settings
+.obsidian/graph.json
+
+# Appearance cache (safe to ignore; appearance.json stores theme selection)
+.obsidian/cache/
+
+# Local Obsidian system data that shouldn't sync
+.obsidian/app.json
