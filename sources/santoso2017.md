@@ -1,60 +1,27 @@
 # The defining characteristics of ENSO extremes and the strong 2015/16 El Niño
 @Santoso2017
 
-# santoso2017_motivation-for-enso-research
-
-The pronounced global impacts of ENSO extend to land and marine habitats, water availability, food security, economics, and social stabilty, thus underscoring the necessity to accurately predict ENSO well in advance for better management of resources and the associated risks. This has been the major motivation for intensive research into how ENSO operates.
-
-the impact of the 1997/98 El Niño was dramatic which could translate to tens of thousands of human casualties worldwide and economic losses of tens of billions in US dollars. There were environmental disruptions such as devasatating floods in Peru, mass coral bleaching events, and evere drought and forest fires in southeast Asia. An enhanced capacity to predict such impactful events is a necessity, especially when they have been projected to increase in frquency under greenhouse forcing.
-
 [[santoso2017_motivation-for-enso-research|Main motivation for intensive research into how ENSO operates]]
-
-# santoso2017_shortness-of-enso-observational-record
-
-The shortness of modern observational record has remained to be a major impending issue. That is, although the spatial coverage of our observing system has been increasing over time since the 1950s and particularly since the 70's when buoy and satellite observations became available, the temporal record is still too short to sufficiently constrain multi-year variability. Longer records deep into the past can be obtained, but this involves dealing with large uncertainties. Ocean observations prior to 1950 were sparse, for instance due to world war disruptions, and were affected by inhomogeneous ship recording practices. Paleo-reconstructions are limited in sptial coverage and still have difficulty in accurately capturing individual ENSO events, even though they can reasonably capture the statistics over a specific period. Thus, every new observation, in particular an emergence of a strong event, such as the 2015/16 El Niño, presents a valuable opportunity to test the prevailing knowledge about ENSO and to review our progress toward a better understanding of this profound climate phenomenon.
 
 [[santoso2017_shortness-of-enso-observational-record|Shortness of ENSO observational record makes every new observation a valuable opportunity for progress in the field]]
 
-Generated in the qequatorial Pacific, ENSO vacillates irregularly between its warm phase, El Niño, and its cold phase, La Niña, peaking in boreal winter and recurring every two to seven years. The central-to-eastern tropical Pacific Ocean warms during an El Niño and cools in a La Niña, causing large-scale changes in ocean and atmospheric circulations within and outside the tropical Pacific, effectively elevating likelihood of extreme wather events globally such as cyclones and extreme rainfall.
+[[santoso2017_enso-definition|Definition of ENSO]]
 
-[[enso-definition|Definition of ENSO]]
+[[santoso2017_paleo-evidence-indicates-enso-variability-is-stronger-today|Paleo evidence indicates that ENSO variability appears stronger than in the past centuries or millenia.]]
 
-There is also some paleo evidence indicating that twentieth-century ENSO variability appears stronger than that in the past centuries or millenia.
+[[santoso2017_characterisation-of-extreme-el-nino-events|Characterisation of extreme El Niño events]]
 
-[[paleo-evidence-indicates-enso-variability-is-stronger-today|Paleo evidence indicates that ENSO variability appears stronger than in the past centuries or millenia.]]
+[[santoso2017_consequences-of-the-1998-1999-extreme-la-nina|Consequences of the 1998/99 extreme La Niña]]
 
-The 1982/83 and 1997/98 El Niños were not just the most intense in modern observational record, but also the most peculiar. They exhibit unusual characteristics distinct from any other observed El Niños. These include an eastward propagation of sea surface temperature (SST) anomalies and particularly intense rainfall in the otherwise dry and cold eastern equatorial Pacific Ocean. Such characteristics have been exploited to identify extreme El Niño in climate models under present-day and future greenhouse forcing scenarios. These include an eastward propagation of sea surface temperature (SST) anomalies and particularly intense rainfall in the otherwise dry and cold eastern equatorial Pacific Ocean. Such characteristics have been exploited to identify extreme El Niño in climate models under present-day and future greenhouse forcing scenarios. However, given the limited observed sample, it is not certin to what extent the observed characteristics are applicable to all extreme El Niño events. (...) In addition, it is not yet clear what other variables exist that can potentially be used in the event characterisation.
+[[santoso2017_swings-from-extreme-nino-to-extreme-nina-projected-to-increase-in-frequency|Swings from extreme El Niño to extreme La Niña have been projected increase in frequency]]
 
-[[characterisation-of-extreme-el-nino-events|Characterisation of extreme El Niño events]]
+[[santoso2017_enso-description|Description of the ENSO phenomenon]]
 
-For instance, the 1998/99 extreme La Niña has been associated with catastrophic flooding events that claimed thousands of huan lives in bangladesh, Venezuela, and China; and severe drought in the southwestern United States, to name only a few.
+[[santoso2017_sources-of-enso-irregularity|Sources of ENSO irregularity]]
 
-[[consequences-of-the-1998-1999-extreme-la-nina|Consequences of the 1998/99 extreme La Niña]]
+[[santoso2017_seasonality-not-required-for-enso-existence|Seasonality is not a requirement for the existence of ENSO]]
 
-The fact that the 1998/99 extreme La Niña immediately followed an extreme El Niño is concerning. For instance, the 1997-1999 swing of ENSO extremes resulted in a dramatic increased US agriculture economic loss from $1.5-1.7 billion in one year to $2.2-6.5 billion in the following year. Particularly concerning is that such swings from extreme El Niño to extreme La Niña have been projected to occur more frequently under greenhouse warming.
+[[santoso2017_enso-spring-predictability-barrier-linked-to-seasonality|Spring Predictability Barrier (SPB) associated with seasonality]]
 
-[[swings-from-extreme-nino-to-extreme-nina-projected-to-increase-in-frequency|Swings from extreme El Niño to extreme La Niña have been projected increase in frequency]]
+[[santoso2017_climate-variability-of-other-oceans-affects-enso|Climate variability in other oceans influences ENSO]]
 
-The tropical Pacific contains the essential geographical and physical elements that generate and support ENSO existence, all of which have evolved throughout Earth’s history.  In a world without land masses there would not be an ENSO, as there are no meridional boundaries that can support such zonal mode of variability. In essence, ENSO exists due to the fact that the tropical Pacific features equatorward blowing Trade Winds that veer westward under Coriolis force, accumulating enormous volume of water above 28°C toward the Maritime Continent (Figure 1), termed the western Pacific warm pool (WPWP).  The warm pool fuels rigorous convection of moist air, forming the ascending branch of the Walker Circulation.  This large-scale movement of air mass descends over the dry eastern equatorial Pacific, marked by a tongue of upwelled cooler waters that extend north-westward off the South American coast due to the Trades.  The Intertropical Convergence Zone (ITCZ), a rainfall band of atmospheric convection sits just north of this “cold tongue”, extending to the west toward the WPWP. One other major convective zone is the South Pacific Convergence Zone (SPCZ), a rain band extending southeastward from the warm pool towards the French Polynesia.  Associated with this climatological setup, the atmospheric sea level pressure is lower in the western tropical Pacific than in the eastern tropical Pacific.  To maintain a balance with the atmosphere, the oceanic thermocline - a sharp boundary separating warm upper waters from cold deeper waters (typically marked by the 20°C isotherm) - shoals eastward, reaching as shallow as 30 m in the far eastern Pacific, and up to 200 m in the vicinity of the WPWP. This climatological state varies seasonally in response to the seasonal march of solar irradiance with a slight lag owing to the high heat capacity of the ocean. The cold tongue and the Trade Winds intensify in boreal summer as the ITCZ marches poleward.  Meanwhile, precipitation decreases over the eastern equatorial Pacific reaching a monthly average value of less than 1 mm day-1. The cold tongue then warms toward boreal spring, as the ITCZ shifts equatorward and the easterly winds weaken.
-
-ENSO is year-to-year deviation from this seasonally evolving climatological state in which anomalous warming of the eastern equatorial Pacific during an El Niño is associated with weaker than normal Walker Circulation, marked by slackened Trade Winds, east-west atmospheric pressure gradient, and thermocline tilt (Figure 2).  These elements interact in a positive Bjerknes coupled feedback loop whereby the eastern Pacific warming induces weaker winds which in turn deepen the thermocline, thus further promoting surface warming. The feedback cycle continues toward the end of the calendar year when damping processes start to take over.  Associated with this surface warming, the WPWP shifts eastward, and the ITCZ and SPCZ move equatorward, significantly increasing precipitation in the otherwise dry eastern equatorial Pacific.  La Niña generally describes the opposite, but this generalisation appears loose in particular when ENSO is viewed from the lens of its extremes as discussed in this present review paper.
-
-[[enso-description|Description of the ENSO phenomenon]]
-
-The climatological elements of the tropical Pacific, such as the Trade Winds, warm pool, cold tongue, thermocline, including the geometry of the basin, allow accumulation and lag times for their interactions to result in roughly 2 years for an El Niño to develop, peak, and decay, followed by a La Niña, and so forth in a quasi-cyclical fashion.
-
-Using a comprehensive ocean model coupled to a simple atmospheric model, Blanke et al. (1997) examined the effect of stochastic winds on ENSO irregularity.  Without stochastic  wind forcing, a regular self-sustained oscillation was produced, indicated by a sharp spectral  peak; whereas with weather noise the spectral peak broadened substantially, resembling the  observed.  In the real system, stochasticity can manifest in the form of “wind bursts” –  episodic but sustained reversals or enhancements of winds about the equator for several days,  which can be due to various factors, such as tropical cyclones and Madden Julian Oscillation .  Wind bursts can trigger ENSO development and influence its  eventual fate, depending on the characteristics of the wind bursts (e.g., strength, timing,  location) as well as the prevailing background condition of the tropical Pacific.  Such stochastic forcings ultimately lead to diversity in ENSO strength, patterns, and  timing.  On the other hand, other studies such as  Münnich et al. demonstrate that stochastic forcing alone is not the only source of  aperiodicity, but another contender is chaos stemming from non-linearity in the deterministic  system.
-
-[[sources-of-enso-irregularity|Sources of ENSO irregularity]]
-
-The fact that ENSO variability can be produced in models without an annual cycle, that is, in  the absence of seasonal shifts in the trade winds, ITCZ, SPCZ, and so forth, indicates that the  intrinsic seasonality is not a requirement for ENSO existence.  However, the annual cycle  does introduce peculiarity in ENSO behavior, including the salient seasonal phase-locking  property, featuring the tendency for ENSO amplitude  to peak toward the end of calendar year from a minimum in boreal spring (Figure 2b). Such  aspect is relevant for seasonal forecast, and thus the mechanism for the seasonal phase  locking of ENSO has been a subject of active research.
-
-[[seasonality-not-required-for-enso-existence|Seasonality is not a requirement for the existence of ENSO]]
-
-The seasonality property is also reflected in the predictability of ENSO.  The so-called “spring predictability barrier” exists in which ENSO  forecast skill drops off dramatically over boreal spring than any other seasons in the year.  This appears to be also associated with the annual cycle in the  growth rate of ENSO.  For instance, Levine and McPhaden found that spring  predictability barrier exists in a conceptual recharge oscillator model only when the ENSO  growth rate is set to vary seasonally.
-
-[[enso-spring-predictability-barrier-linkes-to-seasonality|Spring Predictability Barrier (SPB) associated with seasonality]]
-
-Many of the studies mentioned above implemented models that include just the tropical  Pacific basin, yet ENSO and its irregularity can be produced.  However, in reality, there are  various forcings coming from other regions, including the effect modes of climate variability  sourced in other oceans via atmosphere and ocean teleconnection.  These remote modes, such  as the Indian Ocean Dipole and the Atlantic Niño, are now realized to be able to influence ENSO evolution, either in combination or independently, and  each also contains their own stochasticity, thus also contributing to ENSO irregularity.
-
-[[climate-variability-of-other-oceans-affects-enso|Climate variability in other oceans influences ENSO]]

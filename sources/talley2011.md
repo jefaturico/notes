@@ -17,4 +17,4 @@
 
 [[talley2011_enso-from-normal-conditions-to-el-nino|Mechanics of the shift from normal conditions to El Niño]]
 
-[[talley2011_enso-from-normal-conditions-to-la-nina]]
+[[talley2011_enso-from-el-nino-to-la-nina|Mechanics of the shift from El Niño to La Niña]]

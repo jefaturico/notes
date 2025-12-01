@@ -1,0 +1,3 @@
+# santoso2017_swings-from-extreme-nino-to-extreme-nina-projected-to-increase-in-frequency
+
+The fact that the 1998/99 extreme La Niña immediately followed an extreme El Niño is concerning. For instance, the 1997-1999 swing of ENSO extremes resulted in a dramatic increased US agriculture economic loss from $1.5-1.7 billion in one year to $2.2-6.5 billion in the following year. Particularly concerning is that such swings from extreme El Niño to extreme La Niña have been projected to occur more frequently under greenhouse warming [@Santoso2017].

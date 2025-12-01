@@ -1,0 +1,3 @@
+# santoso2017_climate-variability-of-other-oceans-affects-enso
+
+Many of the studies mentioned above implemented models that include just the tropical  Pacific basin, yet ENSO and its irregularity can be produced.  However, in reality, there are  various forcings coming from other regions, including the effect modes of climate variability  sourced in other oceans via atmosphere and ocean teleconnection.  These remote modes, such  as the Indian Ocean Dipole and the Atlantic Niño, are now realized to be able to influence ENSO evolution, either in combination or independently, and  each also contains their own stochasticity, thus also contributing to ENSO irregularity [@Santoso2017].

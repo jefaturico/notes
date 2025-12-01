@@ -1,0 +1,3 @@
+# santoso2017_enso-definition
+
+Generated in the equatorial Pacific, ENSO vacillates irregularly between its warm phase, El Niño, and its cold phase, La Niña, peaking in boreal winter and recurring every two to seven years. The central-to-eastern tropical Pacific Ocean warms during an El Niño and cools in a La Niña, causing large-scale changes in ocean and atmospheric circulations within and outside the tropical Pacific, effectively elevating likelihood of extreme weather events globally such as cyclones and extreme rainfall [@Santoso2017].

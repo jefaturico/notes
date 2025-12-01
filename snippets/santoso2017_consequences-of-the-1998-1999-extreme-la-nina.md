@@ -1,0 +1,5 @@
+# santoso2017_consequences-of-the-1998-1999-extreme-la-nina
+
+For instance, the 1998/99 extreme La Niña has been associated with catastrophic flooding events that claimed thousands of human lives in Bangladesh, Venezuela, and China; and severe drought in the southwestern United States, to name only a few [@Santoso2017].
+
+The impact of the 1997/98 El Niño was dramatic which could translate to tens of thousands of human casualties worldwide and economic losses of tens of billions in US dollars. There were environmental disruptions such as devastating floods in Peru, mass coral bleaching events, and severe drought and forest fires in southeast Asia. An enhanced capacity to predict such impactful events is a necessity, especially when they have been projected to increase in frquency under greenhouse forcing [@Santoso2017].

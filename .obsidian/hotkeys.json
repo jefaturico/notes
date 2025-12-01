@@ -144,5 +144,23 @@
       ],
       "key": "Enter"
     }
+  ],
+  "juggl:open-vis-global": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "canvas:new-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

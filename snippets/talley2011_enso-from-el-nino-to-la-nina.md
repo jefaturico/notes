@@ -1,3 +1,3 @@
-# talley2011_enso-from-normal-conditions-to-la-nina
+# talley2011_enso-from-el-nino-to-la-nina
 
 The “recharge oscillator” that transitions this back toward a La Niña occurs when: (1) the Kelvin wave reflects at the eastern boundary and produces westward-propagating Rossby waves, (2) the Rossby waves move warm water away from the equator which weakens the equatorial SST warm anomaly, (3) the trade winds strengthen a little in response to the somewhat cooler SST, (4) the strengthened trades begin pushing the thermocline back toward a normal state, and (5) Bjerknes feedback then creates a La Niña state [@Talley2011].

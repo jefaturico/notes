@@ -1,0 +1,3 @@
+# santoso2017_seasonality-not-required-for-enso-existence
+
+The fact that ENSO variability can be produced in models without an annual cycle, that is, in  the absence of seasonal shifts in the trade winds, ITCZ, SPCZ, and so forth, indicates that the  intrinsic seasonality is not a requirement for ENSO existence.  However, the annual cycle  does introduce peculiarity in ENSO behavior, including the salient seasonal phase-locking  property, featuring the tendency for ENSO amplitude  to peak toward the end of calendar year from a minimum in boreal spring (Figure 2b). Such  aspect is relevant for seasonal forecast, and thus the mechanism for the seasonal phase  locking of ENSO has been a subject of active research [@Santoso2017].
