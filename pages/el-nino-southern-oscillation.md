@@ -1,5 +1,4 @@
 # El Niño-Southern Oscillation (ENSO)
-[[enso-research-map.canvas|Diagram of Consulted Sources]]
 
 The **El Niño-Southern Oscillation (ENSO)** is the dominant mode of interannual climate variability in the tropical Pacific [[chen2024_enso-is-dominant-interannual-climate-variability-in-pacific|(@Chen2024)]]. The term *ENSO* really refers to two separate but closely related climate phenomena, El Niño/La Niña and the Southern Oscillation.
 
